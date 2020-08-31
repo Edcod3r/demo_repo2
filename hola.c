@@ -2,7 +2,7 @@
 
 int main(){
 	int x = 5;
-	int y = 12;
+	int y = 15;
 	int z = 0;
 	printf("Hola mundo\n");
 	z = x + y;
