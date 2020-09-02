@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-	int x = 5;
+	int x = 15;
 	int y = 15;
 	int z = 0;
 	printf("Hola mundo\n");
